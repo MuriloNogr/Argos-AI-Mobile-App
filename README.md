@@ -23,7 +23,6 @@ A aplicação segue o padrão **MVVM (Model-View-ViewModel)**, separando respons
 
 ## Estrutura de Pastas
 
-```bash
 .
 ├── data
 │   ├── models
@@ -48,3 +47,10 @@ A aplicação segue o padrão **MVVM (Model-View-ViewModel)**, separando respons
 │       └── Type.kt             # Configurações de tipografia
 │
 └── MainActivity.kt             # Atividade principal que contém a navegação
+
+## Diagrama UML
+
+![ArgosMobileUml](https://github.com/user-attachments/assets/3daf1a13-1827-4140-b3cf-be31c50df154)
+
+
+
