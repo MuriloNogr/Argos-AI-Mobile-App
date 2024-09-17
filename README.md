@@ -52,9 +52,6 @@ A aplicação segue o padrão **MVVM (Model-View-ViewModel)**, separando respons
 
 
 
-
-
-
 ## Diagrama UML
 
 ![ArgosMobileUml](https://github.com/user-attachments/assets/3daf1a13-1827-4140-b3cf-be31c50df154)
